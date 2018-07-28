@@ -1,0 +1,9 @@
+{
+  "name": "ext-core",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "git@github.com:WeSyncVideo/ext-core.git",
+  "author": "Brad <bradpf@outlook.com>",
+  "license": "GPL-3.0",
+  "private": false
+}
